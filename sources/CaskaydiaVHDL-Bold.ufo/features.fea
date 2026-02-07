@@ -501,13 +501,13 @@ lookup less_dollar {
 } less_dollar;
 
 lookup less_equal {
-  ignore sub less less' equal;
-  ignore sub less' equal equal;
-  ignore sub parenleft question less' equal;
-  ignore sub equal less' equal;
-  ignore sub less' equal [less greater bar colon exclam slash];
-  sub less_equal.liga   equal'  by LIG;
-  sub less'             equal   by less_equal.liga;
+  # ignore sub less less' equal;
+  # ignore sub less' equal equal;
+  # ignore sub parenleft question less' equal;
+  # ignore sub equal less' equal;
+  # ignore sub less' equal [less greater bar colon exclam slash];
+  # sub less_equal.liga   equal'  by LIG;
+  # sub less'             equal   by less_equal.liga;
 } less_equal;
 
 lookup less_greater {
@@ -1330,7 +1330,9 @@ lookup equal_arrows {
   sub equal'   slash [equal slash] by equal_start.seq; 
 
   # single beginnings
-  sub less'    equal [equal less greater bar slash colon exclam] by less_equal_start.seq; # disable >= <= as they're used in math
+  sub less' equal [equal less greater bar slash colon exclam] by less_equal_start.seq;
+  sub less' equal by less_equal_start.seq;
+  sub less_equal_start.seq equal' by equal_end.seq;
   sub greater' equal [equal less greater bar slash colon exclam] by greater_equal_start.seq;
   sub bar'     equal [equal less greater bar slash colon exclam] by bar_equal_start.seq; # disable |= 
   sub slash'   equal by slash_equal_start.seq;
