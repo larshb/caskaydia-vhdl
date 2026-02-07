@@ -1,5 +1,5 @@
-# Cascadia Code
-CascadiaCode.ttf:
+# Caskaydia VHDL
+CaskaydiaVHDL.ttf:
 - name: Weight
   tag: wght
   values:
@@ -24,7 +24,7 @@ CascadiaCode.ttf:
     value: 0
     linkedValue: 1
     flags: 2
-CascadiaCodeItalic.ttf:
+CaskaydiaVHDLItalic.ttf:
 - name: Weight
   tag: wght
   values:
@@ -47,7 +47,7 @@ CascadiaCodeItalic.ttf:
   values:
   - name: Italic
     value: 1
-CascadiaCodePL.ttf:
+CaskaydiaVHDLPL.ttf:
 - name: Weight
   tag: wght
   values:
@@ -72,7 +72,7 @@ CascadiaCodePL.ttf:
     value: 0
     linkedValue: 1
     flags: 2
-CascadiaCodePLItalic.ttf:
+CaskaydiaVHDLPLItalic.ttf:
 - name: Weight
   tag: wght
   values:
@@ -95,7 +95,7 @@ CascadiaCodePLItalic.ttf:
   values:
   - name: Italic
     value: 1
-CascadiaCodeNF.ttf:
+CaskaydiaVHDLNF.ttf:
 - name: Weight
   tag: wght
   values:
@@ -120,7 +120,7 @@ CascadiaCodeNF.ttf:
     value: 0
     linkedValue: 1
     flags: 2
-CascadiaCodeNFItalic.ttf:
+CaskaydiaVHDLNFItalic.ttf:
 - name: Weight
   tag: wght
   values:

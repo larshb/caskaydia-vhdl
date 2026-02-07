@@ -20,7 +20,7 @@ body:
     label: Cascadia family variant(s)
     multiple: true
     options:
-      - Cascadia Code (the version with ligatures)
+      - Caskaydia VHDL (the version with ligatures)
       - Cascadia Mono (the version without ligatures)
   validations:
     required: true

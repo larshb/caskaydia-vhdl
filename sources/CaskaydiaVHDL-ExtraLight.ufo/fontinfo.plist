@@ -11,7 +11,7 @@
     <key>descender</key>
     <integer>-480</integer>
     <key>familyName</key>
-    <string>Cascadia Code</string>
+    <string>Caskaydia VHDL</string>
     <key>guidelines</key>
     <array>
       <dict>
@@ -20,29 +20,9 @@
         <key>name</key>
         <string> [locked]</string>
         <key>x</key>
-        <integer>1100</integer>
+        <integer>1050</integer>
         <key>y</key>
-        <integer>1080</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>name</key>
-        <string> [locked]</string>
-        <key>x</key>
-        <integer>886</integer>
-        <key>y</key>
-        <integer>-20</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>name</key>
-        <string> [locked]</string>
-        <key>x</key>
-        <integer>1052</integer>
-        <key>y</key>
-        <integer>1500</integer>
+        <integer>330</integer>
       </dict>
       <dict>
         <key>angle</key>
@@ -70,9 +50,29 @@
         <key>name</key>
         <string> [locked]</string>
         <key>x</key>
+        <integer>280</integer>
+        <key>y</key>
+        <integer>416</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>name</key>
+        <string> [locked]</string>
+        <key>x</key>
         <integer>2160</integer>
         <key>y</key>
         <integer>332</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>name</key>
+        <string> [locked]</string>
+        <key>x</key>
+        <integer>2120</integer>
+        <key>y</key>
+        <integer>342</integer>
       </dict>
       <dict>
         <key>angle</key>
@@ -80,9 +80,19 @@
         <key>name</key>
         <string> [locked]</string>
         <key>x</key>
-        <integer>2120</integer>
+        <integer>240</integer>
         <key>y</key>
-        <integer>342</integer>
+        <integer>390</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>90</integer>
+        <key>name</key>
+        <string> [locked]</string>
+        <key>x</key>
+        <integer>148</integer>
+        <key>y</key>
+        <integer>190</integer>
       </dict>
       <dict>
         <key>angle</key>
@@ -126,121 +136,51 @@
       </dict>
       <dict>
         <key>angle</key>
-        <integer>180</integer>
+        <integer>0</integer>
         <key>x</key>
-        <integer>867</integer>
+        <integer>958</integer>
         <key>y</key>
-        <integer>1808</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>80</integer>
-        <key>x</key>
-        <integer>288</integer>
-        <key>y</key>
-        <integer>1230</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>80</integer>
-        <key>x</key>
-        <integer>2831</integer>
-        <key>y</key>
-        <integer>222</integer>
+        <integer>2226</integer>
       </dict>
       <dict>
         <key>angle</key>
         <integer>0</integer>
-        <key>x</key>
-        <integer>1192</integer>
-        <key>y</key>
-        <integer>1052</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>80</integer>
-        <key>x</key>
-        <integer>2741</integer>
-        <key>y</key>
-        <integer>215</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>80</integer>
-        <key>x</key>
-        <integer>4313</integer>
-        <key>y</key>
-        <integer>608</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>80</integer>
-        <key>x</key>
-        <integer>1881</integer>
-        <key>y</key>
-        <integer>144</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>80</integer>
-        <key>x</key>
-        <integer>100</integer>
-        <key>y</key>
-        <integer>0</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>80</integer>
-        <key>x</key>
-        <integer>925</integer>
-        <key>y</key>
-        <integer>764</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>80</integer>
-        <key>x</key>
-        <integer>1206</integer>
-        <key>y</key>
-        <integer>870</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>80</integer>
         <key>name</key>
         <string> [locked]</string>
         <key>x</key>
-        <integer>751</integer>
+        <integer>1105</integer>
         <key>y</key>
-        <integer>1390</integer>
+        <integer>1040</integer>
       </dict>
       <dict>
         <key>angle</key>
-        <integer>80</integer>
+        <integer>0</integer>
+        <key>name</key>
+        <string> [locked]</string>
         <key>x</key>
-        <integer>375</integer>
+        <integer>1076</integer>
         <key>y</key>
-        <integer>42</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>80</integer>
-        <key>x</key>
-        <integer>384</integer>
-        <key>y</key>
-        <integer>-440</integer>
+        <integer>914</integer>
       </dict>
       <dict>
         <key>angle</key>
         <integer>0</integer>
         <key>x</key>
-        <integer>962</integer>
+        <integer>1555</integer>
         <key>y</key>
-        <integer>280</integer>
+        <integer>1901</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>1376</integer>
+        <key>y</key>
+        <integer>-480</integer>
       </dict>
     </array>
     <key>italicAngle</key>
-    <integer>-10</integer>
+    <integer>0</integer>
     <key>openTypeHeadCreated</key>
     <string>2019/04/07 17:18:29</string>
     <key>openTypeNameDesigner</key>
@@ -327,9 +267,9 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
     <key>postscriptUnderlineThickness</key>
     <integer>100</integer>
     <key>styleName</key>
-    <string>ExtraLight Italic</string>
+    <string>ExtraLight</string>
     <key>trademark</key>
-    <string>Cascadia Code is a trademark of the Microsoft group of companies.</string>
+    <string>Caskaydia VHDL is a trademark of the Microsoft group of companies.</string>
     <key>unitsPerEm</key>
     <integer>2048</integer>
     <key>versionMajor</key>

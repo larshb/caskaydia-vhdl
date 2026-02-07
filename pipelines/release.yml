@@ -103,5 +103,5 @@ extends:
         - bash: |-
            mkdir -p out
            cd build
-           zip -r ../out/CascadiaCode.zip ttf otf woff2
+           zip -r ../out/CaskaydiaVHDL.zip ttf otf woff2
           displayName: 'Build Final Archive'

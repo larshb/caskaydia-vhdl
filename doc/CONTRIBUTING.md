@@ -1,4 +1,4 @@
-# Cascadia Code Contributor's Guide
+# Caskaydia VHDL Contributor's Guide
 
 Below is our guidance for how to report issues, propose new features, and submit contributions via Pull Requests (PRs).
 
@@ -30,7 +30,7 @@ When you hit "New Issue", select the type of issue closest to what you want to r
 
 **Complete the information requested in the issue template, providing as much information as possible**. The more information you provide, the more likely your issue/ask will be understood and implemented. Helpful information includes:
 
-* What version of Cascadia Code you have?
+* What version of Caskaydia VHDL you have?
 * What application you are using to view the font?
 * What is your screen resolution?
 * Don't assume we're experts in setting up YOUR environment. Teach us to help you!

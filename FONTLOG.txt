@@ -1,12 +1,12 @@
-FONTLOG for Cascadia Code
+FONTLOG for Caskaydia VHDL
 ===================================
 
-This file provides detailed information on the Cascadia Code font. This information should be distributed along with the Cascadia Code font and any derivative works.
+This file provides detailed information on the Caskaydia VHDL font. This information should be distributed along with the Caskaydia VHDL font and any derivative works.
 
 Basic Font Information
 -----------------------------------
 
-Cascadia Code is a monospaced font shipped by Microsoft. It includes programming ligatures and is intended for use in terminal applications as well as text editors.
+Caskaydia VHDL is a monospaced font shipped by Microsoft. It includes programming ligatures and is intended for use in terminal applications as well as text editors.
 
 Contribution Information
 -----------------------------------
@@ -18,13 +18,13 @@ ChangeLog
 
 09-25-2019 (Aaron Bell) Bug Fixes and Improvements
 
-09-18-2019 (Aaron Bell) Cascadia Code Version 1909.16
+09-18-2019 (Aaron Bell) Caskaydia VHDL Version 1909.16
 - Initial release
 
-10-04-2019 (Aaron Bell) Cascadia Code Version 1910.04
+10-04-2019 (Aaron Bell) Caskaydia VHDL Version 1910.04
 - Addition of Latin-1 characters
 - Addition of box drawing glyphs
-11-20-2019 (Aaron Bell) Cascadia Code Version 1911.20
+11-20-2019 (Aaron Bell) Caskaydia VHDL Version 1911.20
 - Cyrillic, Greek, Vietnamese, and many other symbols added
 - Font converted to UFO with a build workflow
 - font rehinted
@@ -39,11 +39,11 @@ ChangeLog
 Fixed WinDescent value to improve line spacing
 
 06-29-2020 (Aaron Bell) Variable font conversion
-Converted Cascadia Code to a Variable font with a weight axis
+Converted Caskaydia VHDL to a Variable font with a weight axis
 
 
 06-29-2020 (Aaron Bell) [Version 2007.01]
-Reworked Cascadia Code to be a variable font with 6 named variations ranging
+Reworked Caskaydia VHDL to be a variable font with 6 named variations ranging
 from ExtraLight to Bold.
 Split the long equals ligature (==) for earier reading
 Removed the hexadeciaml 'x' alternate
@@ -70,10 +70,10 @@ Fixed the weight of horncomb in bold
 1) Correcting mark positioning for salishan
 
 5-25-2021
-CASCADIA CODE ITALIC
+Caskaydia VHDL ITALIC
 
 6-17-2021
-CASCADIA CODE ARABIC & HEBREW
+Caskaydia VHDL ARABIC & HEBREW
 ITALIC V2
 
 01-19-2024 (Philippe Majerus) Checkerboard, more quadrants, and sextants.

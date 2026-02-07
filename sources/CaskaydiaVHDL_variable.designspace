@@ -15,6 +15,7 @@
       <conditionset>
         <condition name="Weight" minimum="500" maximum="750"/>
       </conditionset>
+      <sub name="alefdagesh-hb" with="alefdagesh-hb.BRACKET.500"/>
       <sub name="fiveeighths" with="fiveeighths.BRACKET.500"/>
       <sub name="oneeighth" with="oneeighth.BRACKET.500"/>
       <sub name="onehalf" with="onehalf.BRACKET.500"/>
@@ -27,22 +28,21 @@
       <conditionset>
         <condition name="Weight" minimum="600" maximum="750"/>
       </conditionset>
-      <sub name="ampersand" with="ampersand.BRACKET.600"/>
-      <sub name="ampersand_ampersand.liga" with="ampersand_ampersand.liga.BRACKET.600"/>
       <sub name="baht" with="baht.BRACKET.600"/>
       <sub name="dollar" with="dollar.BRACKET.600"/>
       <sub name="dollar_greater.liga" with="dollar_greater.liga.BRACKET.600"/>
       <sub name="less_dollar.liga" with="less_dollar.liga.BRACKET.600"/>
       <sub name="less_dollar_greater.liga" with="less_dollar_greater.liga.BRACKET.600"/>
+      <sub name="pedagesh-hb" with="pedagesh-hb.BRACKET.600"/>
     </rule>
   </rules>
   <sources>
-    <source filename="CascadiaCode-ExtraLightItalic.ufo" name="Cascadia Code ExtraLight Italic" familyname="Cascadia Code" stylename="ExtraLight Italic">
+    <source filename="CaskaydiaVHDL-ExtraLight.ufo" name="Caskaydia VHDL ExtraLight" familyname="Caskaydia VHDL" stylename="ExtraLight">
       <location>
         <dimension name="Weight" xvalue="140"/>
       </location>
     </source>
-    <source filename="CascadiaCode-Italic.ufo" name="Cascadia Code Italic" familyname="Cascadia Code" stylename="Italic">
+    <source filename="CaskaydiaVHDL-Regular.ufo" name="Caskaydia VHDL Regular" familyname="Caskaydia VHDL" stylename="Regular">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -51,14 +51,14 @@
         <dimension name="Weight" xvalue="500"/>
       </location>
     </source>
-    <source filename="CascadiaCode-BoldItalic.ufo" name="Cascadia Code Bold Italic" familyname="Cascadia Code" stylename="Bold Italic">
+    <source filename="CaskaydiaVHDL-Bold.ufo" name="Caskaydia VHDL Bold" familyname="Caskaydia VHDL" stylename="Bold">
       <location>
         <dimension name="Weight" xvalue="750"/>
       </location>
     </source>
   </sources>
   <instances>
-    <instance name="Cascadia Code ExtraLight Italic" familyname="Cascadia Code" stylename="ExtraLight Italic" filename="instance_ufos/CascadiaCode-ExtraLightItalic.ufo" stylemapfamilyname="Cascadia Code ExtraLight" stylemapstylename="italic">
+    <instance name="Caskaydia VHDL ExtraLight" familyname="Caskaydia VHDL" stylename="ExtraLight" filename="instance_ufos/CaskaydiaVHDL-ExtraLight.ufo">
       <location>
         <dimension name="Weight" xvalue="140"/>
       </location>
@@ -70,7 +70,7 @@
           <true/>
           <key>com.schriftgestaltung.intanceInterpolations</key>
           <dict>
-            <key>A4690C19-62E3-4552-AAB4-AF5F97C4421F</key>
+            <key>master01</key>
             <integer>1</integer>
           </dict>
           <key>com.schriftgestaltung.manualInterpolation</key>
@@ -82,7 +82,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Cascadia Code Light Italic" familyname="Cascadia Code" stylename="Light Italic" filename="instance_ufos/CascadiaCode-LightItalic.ufo" stylemapfamilyname="Cascadia Code Light" stylemapstylename="italic">
+    <instance name="Caskaydia VHDL Light" familyname="Caskaydia VHDL" stylename="Light" filename="instance_ufos/CaskaydiaVHDL-Light.ufo">
       <location>
         <dimension name="Weight" xvalue="260"/>
       </location>
@@ -94,9 +94,9 @@
           <true/>
           <key>com.schriftgestaltung.intanceInterpolations</key>
           <dict>
-            <key>7062B15D-7097-4448-A185-D08BD1167FB1</key>
+            <key>1F90C004-9C90-48FA-B407-176B3E9F1E65</key>
             <real>0.33333</real>
-            <key>A4690C19-62E3-4552-AAB4-AF5F97C4421F</key>
+            <key>master01</key>
             <real>0.66667</real>
           </dict>
           <key>com.schriftgestaltung.manualInterpolation</key>
@@ -108,7 +108,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Cascadia Code SemiLight Italic" familyname="Cascadia Code" stylename="SemiLight Italic" filename="instance_ufos/CascadiaCode-SemiLightItalic.ufo" stylemapfamilyname="Cascadia Code SemiLight" stylemapstylename="italic">
+    <instance name="Caskaydia VHDL SemiLight" familyname="Caskaydia VHDL" stylename="SemiLight" filename="instance_ufos/CaskaydiaVHDL-SemiLight.ufo">
       <location>
         <dimension name="Weight" xvalue="380"/>
       </location>
@@ -120,9 +120,9 @@
           <true/>
           <key>com.schriftgestaltung.intanceInterpolations</key>
           <dict>
-            <key>7062B15D-7097-4448-A185-D08BD1167FB1</key>
+            <key>1F90C004-9C90-48FA-B407-176B3E9F1E65</key>
             <real>0.66667</real>
-            <key>A4690C19-62E3-4552-AAB4-AF5F97C4421F</key>
+            <key>master01</key>
             <real>0.33333</real>
           </dict>
           <key>com.schriftgestaltung.manualInterpolation</key>
@@ -134,7 +134,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Cascadia Code Italic" familyname="Cascadia Code" stylename="Italic" filename="instance_ufos/CascadiaCode-Italic.ufo" stylemapfamilyname="Cascadia Code" stylemapstylename="italic">
+    <instance name="Caskaydia VHDL Regular" familyname="Caskaydia VHDL" stylename="Regular" filename="instance_ufos/CaskaydiaVHDL-Regular.ufo">
       <location>
         <dimension name="Weight" xvalue="500"/>
       </location>
@@ -146,7 +146,7 @@
           <true/>
           <key>com.schriftgestaltung.intanceInterpolations</key>
           <dict>
-            <key>7062B15D-7097-4448-A185-D08BD1167FB1</key>
+            <key>1F90C004-9C90-48FA-B407-176B3E9F1E65</key>
             <integer>1</integer>
           </dict>
           <key>com.schriftgestaltung.manualInterpolation</key>
@@ -158,7 +158,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Cascadia Code SemiBold Italic" familyname="Cascadia Code" stylename="SemiBold Italic" filename="instance_ufos/CascadiaCode-SemiBoldItalic.ufo" stylemapfamilyname="Cascadia Code SemiBold" stylemapstylename="italic">
+    <instance name="Caskaydia VHDL SemiBold" familyname="Caskaydia VHDL" stylename="SemiBold" filename="instance_ufos/CaskaydiaVHDL-SemiBold.ufo">
       <location>
         <dimension name="Weight" xvalue="650"/>
       </location>
@@ -170,9 +170,9 @@
           <true/>
           <key>com.schriftgestaltung.intanceInterpolations</key>
           <dict>
-            <key>7062B15D-7097-4448-A185-D08BD1167FB1</key>
+            <key>1F90C004-9C90-48FA-B407-176B3E9F1E65</key>
             <real>0.4</real>
-            <key>84EC96F5-B4D5-4389-883B-FBB110B3398F</key>
+            <key>8E053A5E-67DA-4970-A6F5-068DBFE5AD21</key>
             <real>0.6</real>
           </dict>
           <key>com.schriftgestaltung.manualInterpolation</key>
@@ -184,7 +184,7 @@
         </dict>
       </lib>
     </instance>
-    <instance name="Cascadia Code Bold Italic" familyname="Cascadia Code" stylename="Bold Italic" filename="instance_ufos/CascadiaCode-BoldItalic.ufo" stylemapfamilyname="Cascadia Code" stylemapstylename="bold italic">
+    <instance name="Caskaydia VHDL Bold" familyname="Caskaydia VHDL" stylename="Bold" filename="instance_ufos/CaskaydiaVHDL-Bold.ufo" stylemapfamilyname="Caskaydia VHDL" stylemapstylename="bold">
       <location>
         <dimension name="Weight" xvalue="750"/>
       </location>
@@ -196,7 +196,7 @@
           <true/>
           <key>com.schriftgestaltung.intanceInterpolations</key>
           <dict>
-            <key>84EC96F5-B4D5-4389-883B-FBB110B3398F</key>
+            <key>8E053A5E-67DA-4970-A6F5-068DBFE5AD21</key>
             <integer>1</integer>
           </dict>
           <key>com.schriftgestaltung.manualInterpolation</key>
@@ -213,6 +213,17 @@
     <dict>
       <key>GSDimensionPlugin.Dimensions</key>
       <dict>
+        <key>1F90C004-9C90-48FA-B407-176B3E9F1E65</key>
+        <dict>
+          <key>HH</key>
+          <string>186</string>
+          <key>HV</key>
+          <string>212</string>
+          <key>OH</key>
+          <string>190</string>
+          <key>OV</key>
+          <string>220</string>
+        </dict>
         <key>32D0959D-6118-411E-BC46-DBE7BC1E7C0B</key>
         <dict>
           <key>HH</key>
@@ -258,38 +269,21 @@
         <key>7062B15D-7097-4448-A185-D08BD1167FB1</key>
         <dict>
           <key>HV</key>
-          <string>208</string>
+          <string>205</string>
           <key>OH</key>
           <string>184</string>
           <key>OV</key>
-          <string>214</string>
+          <string>210</string>
           <key>nV</key>
-          <string>215</string>
+          <string>212</string>
+          <key>nd</key>
+          <string>204</string>
           <key>oH</key>
           <string>190</string>
           <key>oV</key>
           <string>214</string>
           <key>tH</key>
-          <string>186</string>
-        </dict>
-        <key>84EC96F5-B4D5-4389-883B-FBB110B3398F</key>
-        <dict>
-          <key>HH</key>
-          <string>266</string>
-          <key>HV</key>
-          <string>266</string>
-          <key>OH</key>
-          <string>252</string>
-          <key>OV</key>
-          <string>278</string>
-          <key>nV</key>
-          <string>275</string>
-          <key>oH</key>
-          <string>257</string>
-          <key>oV</key>
-          <string>287</string>
-          <key>tH</key>
-          <string>249</string>
+          <string>195</string>
         </dict>
         <key>A38DF493-7C5F-490B-8624-7E8A09AEE4F3</key>
         <dict>
@@ -301,25 +295,6 @@
           <string>287</string>
           <key>tH</key>
           <string>250</string>
-        </dict>
-        <key>A4690C19-62E3-4552-AAB4-AF5F97C4421F</key>
-        <dict>
-          <key>HH</key>
-          <string>90</string>
-          <key>HV</key>
-          <string>96</string>
-          <key>OH</key>
-          <string>90</string>
-          <key>OV</key>
-          <string>96</string>
-          <key>nV</key>
-          <string>96</string>
-          <key>oH</key>
-          <string>92</string>
-          <key>oV</key>
-          <string>96</string>
-          <key>tH</key>
-          <string>90</string>
         </dict>
         <key>CF6B61C3-38FB-41CB-B8C0-98C1B61AF433</key>
         <dict>
@@ -341,6 +316,17 @@
           <string>300</string>
           <key>tH</key>
           <string>264</string>
+        </dict>
+        <key>master01</key>
+        <dict>
+          <key>HH</key>
+          <string>90</string>
+          <key>HV</key>
+          <string>94</string>
+          <key>OH</key>
+          <string>90</string>
+          <key>OV</key>
+          <string>96</string>
         </dict>
       </dict>
       <key>public.skipExportGlyphs</key>

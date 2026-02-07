@@ -1,10 +1,10 @@
-![Cascadia Code](images/cascadia-code.png)
+![Caskaydia VHDL](images/cascadia-code.png)
 
-# About Cascadia Code
+# About Caskaydia VHDL
 Cascadia is a fun new coding font that comes bundled with [Windows Terminal](https://github.com/microsoft/terminal), and is now the default font in Visual Studio as well. 
 
 # Font Variants
--  `Cascadia Code`: standard version of Cascadia
+-  `Caskaydia VHDL`: standard version of Cascadia
 -  `Cascadia Mono`: a version of Cascadia that doesn't have ligatures
 -  `Cascadia (Code|Mono) PL`: a version of Cascadia that has embedded Powerline symbols
 -  `Cascadia (Code|Mono) NF`: a version of Cascadia that has Nerd Font symbols
@@ -31,13 +31,13 @@ Enabling stylistic sets will [vary between applications](https://github.com/tons
 If you're using an environment that does not support the `ss01` OT feature, one option to consider is [opentype-feature-freezer](https://github.com/twardoch/fonttools-opentype-feature-freezer/).
 
 # Character Sets
-![Cascadia Code](images/cascadia-code-characters.png)
-![Cascadia Code Italic](images/cascadia-code-italic-characters.png)
+![Caskaydia VHDL](images/cascadia-code-characters.png)
+![Caskaydia VHDL Italic](images/cascadia-code-italic-characters.png)
 ![Symbols for Legacy Computing and other block elements](images/cascadia-legacycomputing-characters.png)
 
 # Installation
 
-**You can download the latest version of Cascadia Code from the releases page here:** [https://github.com/microsoft/cascadia-code/releases](https://github.com/microsoft/cascadia-code/releases)
+**You can download the latest version of Caskaydia VHDL from the releases page here:** [https://github.com/microsoft/cascadia-code/releases](https://github.com/microsoft/cascadia-code/releases)
 
 ##### Font formats:
 
@@ -48,12 +48,12 @@ If you're using an environment that does not support the `ss01` OT feature, one 
 
 Once unzipped, right-click the font file and click `Install for all users`. This will install the font onto your machine. 
 
-👉 **Note:** If you have previously installed a version of Cascadia Code, please uninstall the previous version *prior* to installing a new version. Not doing so can result in improper rendering. 
+👉 **Note:** If you have previously installed a version of Caskaydia VHDL, please uninstall the previous version *prior* to installing a new version. Not doing so can result in improper rendering. 
 
 For more details and app-specific instructions, [please check the wiki](https://github.com/microsoft/cascadia-code/wiki/Installing-Cascadia-Code). 
 
 # Get involved
-Instructions on how to modify and submit an update to the Cascadia Code source is [available in the wiki](https://github.com/microsoft/cascadia-code/wiki/Modifying-Cascadia-Code).
+Instructions on how to modify and submit an update to the Caskaydia VHDL source is [available in the wiki](https://github.com/microsoft/cascadia-code/wiki/Modifying-Cascadia-Code).
 
 
 # Communicating with the Team
